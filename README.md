@@ -1,2 +1,2 @@
-# proj_2
+# HW_2
 html css hw
